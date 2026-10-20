@@ -1,5 +1,6 @@
 MF-MPRNet: A Multi-Task Multi-Frequency Learning Framework for Machining Parameter Recommendation in Computer-Aided Manufacturing
-Abstruct
+Abstruct：
+
 During CNC machining, the reasonable setting of machining parameters directly affects part quality, machining efficiency, and machining safety. However,
 in existing Computer-Aided Manufacturing (CAM) systems, the setting of machining parameters still mainly relies on the experience of NC programmers, 
 resulting in low programming efficiency and insufficient consistency in process planning. To address these issues, this paper proposes
