@@ -25,7 +25,8 @@ and the machined features were consistent with the design model, with critical d
 ## 🛠️ Requirements
 conda env create -f environment.yml
 
-Train:
+🚀 Usage
+To train the model:
   run train.py
 
 Ppredict:
