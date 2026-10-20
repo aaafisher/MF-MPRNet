@@ -24,13 +24,15 @@ and the machined features were consistent with the design model, with critical d
 
 ## 🛠️ Requirements
 
-conda env create -f environment.yml
+Run this script to set up the environment：
+  conda env create -f environment.yml
 
 🚀 Usage
-To train the model:
 
-  run train.py
+1.To train the model:
 
-To predict/test the model:
+   run train.py
 
-  run predict.py
+2.To predict/test the model:
+
+   run predict.py
