@@ -1,6 +1,6 @@
 MF-MPRNet: A Multi-Task Multi-Frequency Learning Framework for Machining Parameter Recommendation in Computer-Aided Manufacturing
 
-Abstruct：
+## 📖 Abstract
 
 During CNC machining, the reasonable setting of machining parameters directly affects part quality, machining efficiency, and machining safety. However,
 in existing Computer-Aided Manufacturing (CAM) systems, the setting of machining parameters still mainly relies on the experience of NC programmers, 
@@ -22,7 +22,7 @@ and the machined features were consistent with the design model, with critical d
 
 
 
-Requirements
+## 🛠️ Requirements
 conda env create -f environment.yml
 
 Train:
