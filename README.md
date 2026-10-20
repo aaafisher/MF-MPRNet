@@ -19,3 +19,14 @@ conducted on an actual machine tool for validation. The toolpaths generated base
 and the machined features were consistent with the design model, with critical dimensions achieving the IT8 tolerance grade.
  The results indicate that the proposed method can effectively achieve intelligent recommendation and automatic configuration of machining parameters
  on the CAM side, providing a feasible solution for the automation and intelligence of CNC machining process planning.
+
+
+
+Requirements
+conda env create -f environment.yml
+
+Train:
+  run train.py
+
+Ppredict:
+  run predict.py
